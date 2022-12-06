@@ -45,3 +45,4 @@ Fire up the container:
 
 `docker-compose -f docker-compose.prod.yml up -d --build`
 
+https://mherman.org/blog/dockerizing-a-react-app/
